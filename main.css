@@ -11,6 +11,19 @@ form div {
     font-weight: bold;
 }
 
+.noticia .nome {
+    font-weight: bold;
+}
+
+.noticia .email {
+   font-weight: bold;
+}
+
+.noticia .datah {
+   font-weight: bold;
+}
+
 .noticia .conteudo {
     display: none;
 }
+
